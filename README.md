@@ -1,5 +1,4 @@
 # A more peaceful galaxy mod
----
 
 ## Mod description
 This mod changes the spawn mechanics for AI empires to make the likelihood of "aggressive" (see technical description) AI spawning a lot lower than in vanilla.  
@@ -11,14 +10,11 @@ My personal use case, this is for those players who want to just build a big emp
 1. "I want to crush the entire galaxy under my boot".  
 As there are much fewer "aggressive" AI, you will have less competition to take over the galaxy. Maybe mix with a "no federations allowed" mod for an even easier play through.
 
----
 
 ## Technical description
 TODO  
 /SteamApps/common/Stellaris/common/ethics
 
-
----
 
 ## How to install
 TODO
