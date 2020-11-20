@@ -1298,7 +1298,7 @@ ethic_fanatic_militarist = {
 
 	# more common ethic
 	random_weight = {
-		value = 100
+		value = 66
 	}
 }
 
@@ -1663,7 +1663,7 @@ ethic_fanatic_pacifist = {
 	}
 
 	random_weight = {
-		value = 66
+		value = 150
 	}
 }
 
@@ -1687,7 +1687,7 @@ ethic_pacifist = {
 	}
 
 	random_weight = {
-		value = 100
+		value = 200
 	}
 
 	pop_attraction_tag = {

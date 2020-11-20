@@ -21,7 +21,7 @@ Fanatic Xenophobe | 150 | 66 | x 0.44
 Xenophobe | 100 | 33 | x 0.33
 Fanatic Xenophile | 100 | 150 | x 1.50
 Xenophile | 66 | 100 | x 1.52
-Fanatic Militarist | 250 | 100 | x 0.40
+Fanatic Militarist | 250 | 66 | x 0.26
 Militarist | 150 | 66 | x 0.44
-Fantic Pacifist | 33 | 100 | x 3.03
-Pacifist | 66 | 150 | x 2.27
+Fantic Pacifist | 33 | 150 | x 4.54
+Pacifist | 66 | 200 | x 3.03
